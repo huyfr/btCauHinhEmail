@@ -1,0 +1,38 @@
+2020-06-02 11:50:54 TRACE EmailController:19 - Vao loadIndex
+2020-06-02 11:50:54 INFO  EmailController:26 - {email=model.Email@547d14d8}
+2020-06-02 11:50:54 TRACE EmailController:30 - Thoat loadIndex
+2020-06-02 11:50:55 TRACE EmailController:19 - Vao loadIndex
+2020-06-02 11:50:55 INFO  EmailController:26 - {email=model.Email@3b899d4}
+2020-06-02 11:50:55 TRACE EmailController:30 - Thoat loadIndex
+2020-06-02 11:50:56 TRACE EmailController:19 - Vao loadIndex
+2020-06-02 11:50:56 INFO  EmailController:26 - {email=model.Email@550890f}
+2020-06-02 11:50:56 TRACE EmailController:30 - Thoat loadIndex
+2020-06-02 12:04:53 TRACE EmailController:21 - Vao loadIndex
+2020-06-02 12:04:53 INFO  EmailController:28 - Mang object email sang trang index.jsp
+2020-06-02 12:04:53 TRACE EmailController:32 - Thoat loadIndex
+2020-06-02 12:04:54 TRACE EmailController:21 - Vao loadIndex
+2020-06-02 12:04:54 INFO  EmailController:28 - Mang object email sang trang index.jsp
+2020-06-02 12:04:54 TRACE EmailController:32 - Thoat loadIndex
+2020-06-02 12:04:54 TRACE EmailController:21 - Vao loadIndex
+2020-06-02 12:04:54 INFO  EmailController:28 - Mang object email sang trang index.jsp
+2020-06-02 12:04:54 TRACE EmailController:32 - Thoat loadIndex
+2020-06-02 12:05:02 TRACE EmailController:38 - Vao loadResult
+2020-06-02 12:05:02 TRACE EmailController:49 - Thoat loadResult
+2020-06-02 12:05:11 TRACE EmailController:38 - Vao loadResult
+2020-06-02 12:05:11 TRACE EmailController:49 - Thoat loadResult
+2020-06-02 12:05:50 TRACE EmailController:38 - Vao loadResult
+2020-06-02 12:05:50 TRACE EmailController:49 - Thoat loadResult
+2020-06-02 13:37:42 TRACE EmailController:21 - Vao loadIndex
+2020-06-02 13:37:42 INFO  EmailController:28 - Mang object email sang trang index.jsp
+2020-06-02 13:37:42 TRACE EmailController:32 - Thoat loadIndex
+2020-06-02 13:37:43 TRACE EmailController:21 - Vao loadIndex
+2020-06-02 13:37:43 INFO  EmailController:28 - Mang object email sang trang index.jsp
+2020-06-02 13:37:43 TRACE EmailController:32 - Thoat loadIndex
+2020-06-02 13:37:44 TRACE EmailController:21 - Vao loadIndex
+2020-06-02 13:37:44 INFO  EmailController:28 - Mang object email sang trang index.jsp
+2020-06-02 13:37:44 TRACE EmailController:32 - Thoat loadIndex
+2020-06-02 13:38:16 TRACE EmailController:38 - Vao loadResult
+2020-06-02 13:38:16 INFO  EmailController:46 - [model.Email@3e74145a, org.springframework.validation.BeanPropertyBindingResult: 0 errors, Chinese, 25, true, Test
+
+Testst]
+2020-06-02 13:38:16 TRACE EmailController:50 - Thoat loadResult
